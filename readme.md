@@ -27,8 +27,8 @@ The CNN model architecture used for image recognition includes convolutional lay
 - `README.md`: This file providing information about the project.
 
 ## Author
-[Your Name]
-[Your GitHub Profile URL]
+Faruq Hussain
+https://github.com/faruq181
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
